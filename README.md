@@ -1,3 +1,7 @@
+## Deprecated
+
+See https://github.com/ponychicken/WebsterParser and the issues for a fix in Mac dark mode.
+
 ### Webster's Unabridged Dictionary for Mac OS X Dictionary app!
 
 Better default dictionary from http://jsomers.net/blog/dictionary
